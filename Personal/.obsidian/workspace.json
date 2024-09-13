@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/3D Printing/New 3D Printer.md",
+                "file": "Templates/Blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Blog.md",
+                "file": "Templates/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Blog.md",
+                "file": "Templates/Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Blog.md"
+                "file": "Templates/Blog.md"
               }
             }
           },
@@ -192,8 +192,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "2a9c251dd94ab806",
+  "active": "c2cb954b9ab7d8d8",
   "lastOpenFiles": [
+    "Blog/Blog.md",
+    "Templates/Blog.md",
     "Templates/Article.md",
     "Welcome.md",
     "Blog/3D Printing/3D Printing.md",
@@ -203,7 +205,6 @@
     "Templates/Templates.md",
     "Templates",
     "Blog Archive/Blog Archive.md",
-    "Blog/Blog.md",
     "Blog/Home Automation/Home Automation.md",
     "Blog/3D Printing/Living with the Printer.md",
     "Blog/3D Printing/LEDs.md",
