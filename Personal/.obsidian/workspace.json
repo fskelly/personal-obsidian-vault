@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/3D Printing/3D Printing.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/3D Printing/3D Printing.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/3D Printing/3D Printing.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/3D Printing/3D Printing.md"
+                "file": "Blog/3D Printing/New 3D Printer.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "b7a12f18e6951229",
   "lastOpenFiles": [
-    "Blog/Blog.md",
     "Blog/3D Printing/3D Printing.md",
+    "Blog/Blog.md",
     "Blog/3D Printing/LEDs.md",
     "Blog/3D Printing/Living with the Printer.md",
     "Blog/3D Printing/Post Ideas/Post Ideas.md",
