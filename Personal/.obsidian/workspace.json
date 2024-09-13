@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,20 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Blog/3D Printing/New 3D Printer.md"
               }
-            }
-          },
-          {
-            "id": "11eaa17a2617c59f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,8 +175,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7cfaa6023b2adbc1",
+  "active": "c2cb954b9ab7d8d8",
   "lastOpenFiles": [
+    "Blog/3D Printing/3D Printing.md",
+    "Templates/Article.md",
+    "Templates/Templates.md",
+    "Welcome.md",
+    "Templates",
     "Blog Archive/Blog Archive.md",
     "Blog/Blog.md",
     "Blog/Home Automation/Home Automation.md",
@@ -192,8 +189,6 @@
     "Blog/3D Printing/New 3D Printer.md",
     "Blog/3D Printing/Living with the Printer.md",
     "Blog/3D Printing/LEDs.md",
-    "Welcome.md",
-    "Blog/3D Printing/3D Printing.md",
     "Blog/Home Automation",
     "Blog/3D Printing/Post Ideas/Post Ideas.md",
     "Blog/3D Printing/Post Ideas/Example.md",
