@@ -35,12 +35,8 @@
             "id": "14833c995fe0b12f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/3D Printing/Printer Mods.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/3D Printing/Printer Mods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/3D Printing/Printer Mods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Blog/3D Printing/Printer Mods.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,6 +181,7 @@
   },
   "active": "14833c995fe0b12f",
   "lastOpenFiles": [
+    "Blog/3D Printing/Printer Mods.md",
     "Blog/3D Printing/Tooling and Apps.md",
     "Blog/3D Printing/3D Printing.md",
     "Blog/3D Printing/New 3D Printer.md",
@@ -199,7 +192,6 @@
     "Blog Archive/Blog Archive.md",
     "Blog/Blog.md",
     "Blog/Home Automation/Home Automation.md",
-    "Blog/3D Printing/Printer Mods.md",
     "Blog/3D Printing/Living with the Printer.md",
     "Blog/3D Printing/LEDs.md",
     "Blog/Home Automation",
