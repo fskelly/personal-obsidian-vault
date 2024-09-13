@@ -6,4 +6,5 @@ When you're ready, delete this note and make the vault your own.
 
 Just a way of keeping my thoughts organized.
 1. My [[Blog|blog]] ideas
-2. My [[Blog Archive]]
+2. My [[Blog Archive|posted]] blogs
+3. 
