@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Blog/3D Printing/New 3D Printer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +150,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Blog/3D Printing/New 3D Printer.md"
               }
+            }
+          },
+          {
+            "id": "b968fa7a66686f95",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a9c251dd94ab806",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -173,18 +189,19 @@
       "obsidian-git:Open Git source control": false,
       "webpage-html-export:Export Vault to HTML": false,
       "github-sync:Sync with Remote": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c2cb954b9ab7d8d8",
+  "active": "2a9c251dd94ab806",
   "lastOpenFiles": [
     "Templates/Article.md",
+    "Welcome.md",
     "Blog/3D Printing/3D Printing.md",
     "Blog/3D Printing/Printer Mods.md",
     "Blog/3D Printing/Tooling and Apps.md",
     "Blog/3D Printing/New 3D Printer.md",
     "Templates/Templates.md",
-    "Welcome.md",
     "Templates",
     "Blog Archive/Blog Archive.md",
     "Blog/Blog.md",
