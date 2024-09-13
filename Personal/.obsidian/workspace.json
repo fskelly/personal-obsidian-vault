@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/3D Printing/3D Printing.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "14833c995fe0b12f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -52,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           }
         ],
@@ -176,16 +172,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "14833c995fe0b12f",
+  "active": "c2cb954b9ab7d8d8",
   "lastOpenFiles": [
+    "Templates/Article.md",
+    "Blog/3D Printing/3D Printing.md",
     "Blog/3D Printing/Printer Mods.md",
     "Blog/3D Printing/Tooling and Apps.md",
-    "Blog/3D Printing/3D Printing.md",
     "Blog/3D Printing/New 3D Printer.md",
-    "Templates/Article.md",
     "Templates/Templates.md",
     "Welcome.md",
     "Templates",
