@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/3D Printing/New 3D Printer.md",
+                "file": "Blog/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/3D Printing/New 3D Printer.md",
+                "file": "Blog/Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/3D Printing/New 3D Printer.md"
+                "file": "Blog/Blog.md"
               }
             }
           },
@@ -186,7 +186,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
       "webpage-html-export:Export Vault to HTML": false,
       "github-sync:Sync with Remote": false,
       "markdown-importer:Open format converter": false,
