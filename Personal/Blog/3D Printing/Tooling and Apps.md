@@ -8,5 +8,13 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 ## Apps
 ### Manyfold
+Not the easiest app to install on [Unraid](https://unraid.net/)
+Docker install
+Follow the instructions
+1. Needs Redis
+2. Needs Postgesql
+3. Cannot render all models
+4. Great for storing items
+5. Compare to previous "OneDrive" method
 ### OrcaSlicer (after BambuStudio)
 ### Fusion360
