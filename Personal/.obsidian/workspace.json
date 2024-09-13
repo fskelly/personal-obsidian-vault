@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/3D Printing/New 3D Printer.md",
+                "file": "Blog/3D Printing/Tooling and Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/3D Printing/New 3D Printer.md",
+                "file": "Blog/3D Printing/Tooling and Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/3D Printing/New 3D Printer.md",
+                "file": "Blog/3D Printing/Tooling and Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/3D Printing/New 3D Printer.md"
+                "file": "Blog/3D Printing/Tooling and Apps.md"
               }
             }
           },
@@ -194,14 +194,14 @@
   },
   "active": "c2cb954b9ab7d8d8",
   "lastOpenFiles": [
-    "Blog/3D Printing/3D Printing.md",
     "Templates/Blog.md",
+    "Blog/3D Printing/New 3D Printer.md",
+    "Blog/3D Printing/3D Printing.md",
     "Blog/Blog.md",
     "Templates/Article.md",
     "Welcome.md",
     "Blog/3D Printing/Printer Mods.md",
     "Blog/3D Printing/Tooling and Apps.md",
-    "Blog/3D Printing/New 3D Printer.md",
     "Templates/Templates.md",
     "Templates",
     "Blog Archive/Blog Archive.md",
