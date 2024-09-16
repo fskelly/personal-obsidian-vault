@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/🖨️ 3D Printing Project - {{title}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e665d853bcbad88",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/🖨️ 3D Printing Project - {{title}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/🖨️ 3D Printing Project - {{title}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Untitled.md"
+                "file": "Templates/🖨️ 3D Printing Project - {{title}}.md"
               }
             }
           },
@@ -196,8 +195,8 @@
   "active": "c2cb954b9ab7d8d8",
   "lastOpenFiles": [
     "Templates/Article.md",
+    "Templates/🖨️ 3D Printing Project - {{title}}.md",
     "Templates/Blog.md",
-    "Templates/Untitled.md",
     "Blog/3D Printing/New 3D Printer.md",
     "Blog/3D Printing/Tooling and Apps.md",
     "Blog/3D Printing/3D Printing.md",
